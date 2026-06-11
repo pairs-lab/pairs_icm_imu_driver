@@ -1,0 +1,5 @@
+<library path="lib/libPairsIcmImuDriver">
+  <class name="pairs_icm_imu_driver/PairsIcmImuDriver" type="pairs_icm_imu_driver::PairsIcmImuDriver" base_class_type="nodelet::Nodelet">
+    <description>PairsIcmImuDriver nodelet</description>
+  </class>
+</library>
